@@ -1,0 +1,14 @@
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.AssemblyInfoInputs.cache
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.AssemblyInfo.cs
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.csproj.CoreCompileInputs.cache
+F:\C# PROGRAMMING\data-type-conversion\bin\Debug\net7.0\data-type-conversion.exe
+F:\C# PROGRAMMING\data-type-conversion\bin\Debug\net7.0\data-type-conversion.deps.json
+F:\C# PROGRAMMING\data-type-conversion\bin\Debug\net7.0\data-type-conversion.runtimeconfig.json
+F:\C# PROGRAMMING\data-type-conversion\bin\Debug\net7.0\data-type-conversion.dll
+F:\C# PROGRAMMING\data-type-conversion\bin\Debug\net7.0\data-type-conversion.pdb
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.dll
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\refint\data-type-conversion.dll
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.pdb
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\data-type-conversion.genruntimeconfig.cache
+F:\C# PROGRAMMING\data-type-conversion\obj\Debug\net7.0\ref\data-type-conversion.dll

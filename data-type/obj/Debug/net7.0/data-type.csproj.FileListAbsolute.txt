@@ -1,0 +1,14 @@
+F:\C# PROGRAMMING\data-type\bin\Debug\net7.0\data-type.exe
+F:\C# PROGRAMMING\data-type\bin\Debug\net7.0\data-type.deps.json
+F:\C# PROGRAMMING\data-type\bin\Debug\net7.0\data-type.runtimeconfig.json
+F:\C# PROGRAMMING\data-type\bin\Debug\net7.0\data-type.dll
+F:\C# PROGRAMMING\data-type\bin\Debug\net7.0\data-type.pdb
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.AssemblyInfoInputs.cache
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.AssemblyInfo.cs
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.csproj.CoreCompileInputs.cache
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.dll
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\refint\data-type.dll
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.pdb
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\data-type.genruntimeconfig.cache
+F:\C# PROGRAMMING\data-type\obj\Debug\net7.0\ref\data-type.dll
