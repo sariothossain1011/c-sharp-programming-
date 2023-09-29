@@ -1,0 +1,14 @@
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.AssemblyInfoInputs.cache
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.AssemblyInfo.cs
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.csproj.CoreCompileInputs.cache
+F:\C# PROGRAMMING\eventoaddcheck\bin\Debug\net7.0\eventoaddcheck.exe
+F:\C# PROGRAMMING\eventoaddcheck\bin\Debug\net7.0\eventoaddcheck.deps.json
+F:\C# PROGRAMMING\eventoaddcheck\bin\Debug\net7.0\eventoaddcheck.runtimeconfig.json
+F:\C# PROGRAMMING\eventoaddcheck\bin\Debug\net7.0\eventoaddcheck.dll
+F:\C# PROGRAMMING\eventoaddcheck\bin\Debug\net7.0\eventoaddcheck.pdb
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.dll
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\refint\eventoaddcheck.dll
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.pdb
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\eventoaddcheck.genruntimeconfig.cache
+F:\C# PROGRAMMING\eventoaddcheck\obj\Debug\net7.0\ref\eventoaddcheck.dll

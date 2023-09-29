@@ -1,0 +1,14 @@
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.AssemblyInfoInputs.cache
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.AssemblyInfo.cs
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.csproj.CoreCompileInputs.cache
+F:\C# PROGRAMMING\decision-making-statement\bin\Debug\net7.0\decision-making-statement.exe
+F:\C# PROGRAMMING\decision-making-statement\bin\Debug\net7.0\decision-making-statement.deps.json
+F:\C# PROGRAMMING\decision-making-statement\bin\Debug\net7.0\decision-making-statement.runtimeconfig.json
+F:\C# PROGRAMMING\decision-making-statement\bin\Debug\net7.0\decision-making-statement.dll
+F:\C# PROGRAMMING\decision-making-statement\bin\Debug\net7.0\decision-making-statement.pdb
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.dll
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\refint\decision-making-statement.dll
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.pdb
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\decision-making-statement.genruntimeconfig.cache
+F:\C# PROGRAMMING\decision-making-statement\obj\Debug\net7.0\ref\decision-making-statement.dll
